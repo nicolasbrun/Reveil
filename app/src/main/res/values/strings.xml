@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reveil</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="pick_time">Choisir votre heure</string>
+</resources>
